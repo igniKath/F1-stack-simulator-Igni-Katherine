@@ -2,6 +2,18 @@
 
 This is the unfinished repository for a pre-demo reading activity. Read `Flask_PreDemo_Reading_Activity.pdf` first. 
 
+**Name:** Katherine R. Igni
+**Section:** BSIT - WMT 4-2
+**Date:** October 25, 2026
+
+## About This Activity
+
+This activity introduces how Python and Flask connect to an HTML interface. It helps me explore the starter project files and understand how the Flask Stack Simulator will work before the demonstration.
+
+## Original Starter Repository
+
+https://github.com/Jackson-Soriano/f1-elec4-stack-simulator-starter
+
 ## Before the demonstration
 
 1. Clone the repository URL supplied by your instructor.
